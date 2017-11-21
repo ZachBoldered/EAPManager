@@ -1,0 +1,10 @@
+F:\进销存\EAPManager\BSE.Windows.Forms\bin\Release\BSE.Windows.Forms.dll
+F:\进销存\EAPManager\BSE.Windows.Forms\bin\Release\BSE.Windows.Forms.pdb
+F:\进销存\EAPManager\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.Properties.Resources.resources
+F:\进销存\EAPManager\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.Panel.resources
+F:\进销存\EAPManager\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.XPanderPanel.resources
+F:\进销存\EAPManager\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.XPanderPanelList.resources
+F:\进销存\EAPManager\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.csproj.GenerateResource.Cache
+F:\进销存\EAPManager\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.csproj.CoreCompileInputs.cache
+F:\进销存\EAPManager\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.dll
+F:\进销存\EAPManager\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.pdb

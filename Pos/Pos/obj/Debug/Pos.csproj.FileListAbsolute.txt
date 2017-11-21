@@ -1,0 +1,166 @@
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\ResolveAssemblyReference.cache
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.Form1.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.Properties.Resources.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.csproj.GenerateResource.Cache
+F:\大四\毕业设计\Pos\Pos\Pos\bin\Debug\Pos.exe
+F:\大四\毕业设计\Pos\Pos\Pos\bin\Debug\Pos.pdb
+F:\大四\毕业设计\Pos\Pos\Pos\bin\Debug\BSE.Windows.Forms.dll
+F:\大四\毕业设计\Pos\Pos\Pos\bin\Debug\BSE.Windows.Forms.pdb
+F:\大四\毕业设计\Pos\Pos\Pos\bin\Debug\BSE.Windows.Forms.xml
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.exe
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.pdb
+F:\大四\毕业设计\Pos\Pos\Pos\bin\Debug\Pos.exe.config
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.FrmCustomerAdd.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.FrmCustomerEdit.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.FrmVendorAdd.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.FrmVendorEdit.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.FrmProductColorAdd.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.FrmProductAdd.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.FrmProductUnitAdd.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.FrmProductColorEdit.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.FrmProductEdit.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.FrmProductUnitEdit.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.FrmProductSearch.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.FrmUsersAdd.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.FrmUserEdit.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.FrmBuyOrderSearch.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.FrmBuyOrderSearch1.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.FrmSaleOrderSearch.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.FrmSaleOrderSearch1.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.InputBox.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.UpdateForm.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.FrmTest.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.Orders.UCBuyOrderAdd.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.Orders.UCBuyOrderOut.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.Orders.UCSaleOrderAdd.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.Orders.UCSaleOrderOut.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.FrmLogin.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.Report.UCProductsPrice.resources
+F:\大四\毕业设计\Pos\Pos\Pos\obj\Debug\Pos.Report.UCProductsSale.resources
+F:\大四\毕业设计\Pos\Pos\Pos\bin\Debug\DevExpress.Data.v7.1.dll
+F:\大四\毕业设计\Pos\Pos\Pos\bin\Debug\DevExpress.Utils.v7.1.dll
+F:\大四\毕业设计\Pos\Pos\Pos\bin\Debug\DevExpress.XtraEditors.v7.1.dll
+F:\大四\毕业设计\Pos\Pos\Pos\bin\Debug\DevExpress.XtraGrid.v7.1.dll
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\bin\Debug\Pos.exe.config
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.exe
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.pdb
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\bin\Debug\Pos.exe
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\bin\Debug\Pos.pdb
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\bin\Debug\BSE.Windows.Forms.dll
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\bin\Debug\DevExpress.Data.v7.1.dll
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\bin\Debug\DevExpress.Utils.v7.1.dll
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\bin\Debug\DevExpress.XtraEditors.v7.1.dll
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\bin\Debug\DevExpress.XtraGrid.v7.1.dll
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\bin\Debug\BSE.Windows.Forms.pdb
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\bin\Debug\BSE.Windows.Forms.xml
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.FrmCustomerAdd.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.FrmCustomerEdit.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.Form1.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.FrmLogin.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.FrmTest.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.FrmBuyOrderSearch.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.FrmBuyOrderSearch1.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.FrmSaleOrderSearch.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.FrmSaleOrderSearch1.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.InputBox.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.Orders.UCBuyOrderAdd.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.Orders.UCBuyOrderOut.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.Orders.UCSaleOrderAdd.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.Orders.UCSaleOrderOut.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.FrmProductColorAdd.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.FrmProductAdd.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.FrmProductUnitAdd.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.FrmProductColorEdit.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.FrmProductEdit.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.FrmProductUnitEdit.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.FrmProductSearch.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.Report.UCProductsPrice.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.Report.UCProductsSale.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.UpdateForm.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.FrmUsersAdd.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.FrmUserEdit.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.FrmVendorAdd.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.FrmVendorEdit.resources
+C:\Documents and Settings\Administrator\桌面\毕业设计+论文\Pos\Pos\Pos\obj\Debug\Pos.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\毕业设计\代码\Pos\Pos\bin\Debug\Pos.exe.config
+C:\Documents and Settings\Administrator\桌面\毕业设计\代码\Pos\Pos\obj\Debug\Pos.exe
+C:\Documents and Settings\Administrator\桌面\毕业设计\代码\Pos\Pos\obj\Debug\Pos.pdb
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\bin\Debug\Pos.exe.config
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.exe
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.pdb
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\bin\Debug\Pos.exe
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\bin\Debug\Pos.pdb
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\bin\Debug\BSE.Windows.Forms.dll
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\bin\Debug\BSE.Windows.Forms.pdb
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\bin\Debug\BSE.Windows.Forms.xml
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmCustomerAdd.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmCustomerEdit.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.Form1.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmLogin.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmTest.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmBuyOrderSearch.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmBuyOrderSearch1.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmSaleOrderSearch.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmSaleOrderSearch1.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.InputBox.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.Orders.UCBuyOrderAdd.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.Orders.UCBuyOrderOut.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.Orders.UCSaleOrderAdd.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.Orders.UCSaleOrderOut.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmProductColorAdd.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmProductAdd.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmProductUnitAdd.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmProductColorEdit.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmProductEdit.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmProductUnitEdit.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmProductSearch.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.Properties.Resources.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.Report.UCProductsPrice.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.Report.UCProductsSale.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.UpdateForm.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmUsersAdd.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmUserEdit.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmVendorAdd.resources
+E:\Project\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmVendorEdit.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\bin\Debug\Pos.exe.config
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.exe
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.pdb
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\bin\Debug\Pos.exe
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\bin\Debug\Pos.pdb
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\bin\Debug\BSE.Windows.Forms.dll
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\bin\Debug\BSE.Windows.Forms.pdb
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\bin\Debug\BSE.Windows.Forms.xml
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmCustomerAdd.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmCustomerEdit.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.Form1.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmLogin.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmTest.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmBuyOrderSearch.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmBuyOrderSearch1.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmSaleOrderSearch.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmSaleOrderSearch1.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.InputBox.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.Orders.UCBuyOrderAdd.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.Orders.UCBuyOrderOut.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.Orders.UCSaleOrderAdd.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.Orders.UCSaleOrderOut.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmProductColorAdd.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmProductAdd.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmProductUnitAdd.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmProductColorEdit.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmProductEdit.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmProductUnitEdit.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmProductSearch.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.Properties.Resources.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.Report.UCProductsPrice.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.Report.UCProductsSale.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.UpdateForm.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmUsersAdd.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmUserEdit.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmVendorAdd.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\obj\Debug\Pos.FrmVendorEdit.resources
+E:\Project\DevExpress\进销存DevExpress系统\代码\Pos\Pos\bin\Debug\bin\Debug\DataBase.mdb
